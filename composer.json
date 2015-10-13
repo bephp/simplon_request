@@ -1,0 +1,35 @@
+{
+  "name": "simplon/request",
+  "description": "Simple, straight forward request helper, frok from https://github.com/fightbulc/simplon_request, support php5.3",
+  "homepage": "https://github.com/lloydzhou/simplon_request",
+  "type": "library",
+  "keywords": [
+    "request",
+    "curl",
+    "jsonrpc",
+    "get",
+    "post",
+    "auth"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lloyd zhou",
+      "email": "lloydzhou@qq.com",
+      "role": "developer"
+    },
+    {
+      "name": "Tino Ehrich",
+      "email": "tino@bigpun.me",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Simplon\\Request\\": "src/"
+    }
+  }
+}
