@@ -1,5 +1,5 @@
 {
-  "name": "lloydzhou/request",
+  "name": "bephp/request",
   "description": "Simple, straight forward request helper, frok from https://github.com/fightbulc/simplon_request, support php5.3",
   "homepage": "https://github.com/lloydzhou/simplon_request",
   "type": "library",
